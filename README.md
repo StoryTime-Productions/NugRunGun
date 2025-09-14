@@ -43,7 +43,7 @@
     <img src="https://i.imgur.com/PQcrqRh.png" alt="Logo">
   </a>
 
-  <h3 align="center">NugGunRun</h3>
+  <h3 align="center">NugRunGun</h3>
 
   <p align="center">
     Shoot food as a nugget with sick DnB tracks
