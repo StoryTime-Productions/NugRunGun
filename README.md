@@ -76,11 +76,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap;">
-  <img src="https://github.com/user-attachments/assets/795dce49-8e3c-4550-9f1c-9149ce375873" alt="ScreenShot4" style="width: 33%; height: auto;" />
-  <img src="https://github.com/user-attachments/assets/11fbd057-0f9e-4e17-a19e-728307f8856a" alt="ScreenShot1" style="width: 33%; height: auto;" />
-  <img src="https://github.com/user-attachments/assets/12c54447-409c-4c91-9e3c-947fb7e5c1f3" alt="ScreenShot3" style="width: 33%; height: auto;" />
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/795dce49-8e3c-4550-9f1c-9149ce375873" alt="ScreenShot4" width="32%" />
+  <img src="https://github.com/user-attachments/assets/11fbd057-0f9e-4e17-a19e-728307f8856a" alt="ScreenShot1" width="32%" />
+  <img src="https://github.com/user-attachments/assets/12c54447-409c-4c91-9e3c-947fb7e5c1f3" alt="ScreenShot3" width="32%" />
+</p>
 <br>
 For too long has the chicken nugget been at the bottom. Equipped with an arsenal, it's time to show 'em how fried you are! NugGunRun is a fast-paced, top-down arcade shooter where you face off against waves of enemy food items across three differently themed levels. Survive until the end of each level's music track while maximizing your score through powerups and combo mastery.
 
