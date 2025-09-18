@@ -49,7 +49,7 @@
     Shoot food as a nugget with sick DnB tracks
     <br />
     <br />
-    <a href="https://github.com/StoryTime-Productions/NugRunGun">Download Game</a>
+    <a href="https://storytime-productions.itch.io/nugrungun">Download Game</a>
     ·
     <a href="https://github.com/StoryTime-Productions/NugRunGun/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
